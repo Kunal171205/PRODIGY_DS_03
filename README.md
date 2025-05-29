@@ -8,6 +8,7 @@ This repository contains the implementation for **Prodigy Infotech Internship Ta
 ## 🚀 Project Overview
 
 What’s included:
+
 ✅ Data preprocessing (encoding categorical + numerical features)  
 ✅ Handling class imbalance (undersampling / SMOTE)  
 ✅ Decision Tree Classifier training  
